@@ -37,7 +37,6 @@ Open your browser and visit http://localhost:3000 (or your configured port), cli
 3. Client is redirected to the MoMo payment page (QR Code / Card input).
 4. After payment, MoMo redirects the user back to your site with the result.
 
-|
 
 
 | Screenshot | Description |
